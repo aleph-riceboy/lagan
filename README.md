@@ -1,0 +1,2 @@
+# lagan
+A cryptocurrency project
